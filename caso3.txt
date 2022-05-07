@@ -1,0 +1,7 @@
+Torrent search will share the same search bar with the streaming search. 
+Database of torrent sites can be updated via the internet. 
+There will be a tick box to allow the user to choose to include torrent searching in the search. 
+Query will retrieve the no. of seed and peers, size of the file, date posted and a link to the webpage itself. 
+If no results are found on a search it will display a message “No results were found for this search.” 
+Results will be arranged in size/date/alphabetical order by clicking on the column headers. 
+There will be page button for the user to navigate the results.
