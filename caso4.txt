@@ -1,0 +1,2 @@
+Our research indicates that the market for home security systems is growing at a rate of 40 percent per year. 
+We would like to enter this market by building a microprocessor-based home security system that would protect against and/or recognize a variety of undesirable "situations" such as illegal entry, fire, flooding, and others. The product, tentatively called SafeHome, will use appropriate sensors to detect each situation, can be programmed by the homeowner, and will automatically telephone a monitoring agency when a situation is detected.
