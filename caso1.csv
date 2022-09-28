@@ -5,7 +5,7 @@
 5,An ATM communicates with a central computer. The central computer clears transactions with the banks. 
 6,An ATM accepts a cash card and interacts with the user. 
 7,An ATM communicates with the central computer to carry out transactions. 
-8,An ATM dispenses cash, and prints receipts. 
+8,An ATM dispenses cash and prints receipts. 
 9,The system requires appropriate record-keeping and security provisions. 
 10,The system must handle concurrent access to the same account correctly. 
 11,The banks will provide the bank's own software for the bank's own computers
