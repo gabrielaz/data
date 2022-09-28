@@ -1,3 +1,4 @@
+requirements
 The system must support a computerized banking network that includes both human cashiers and ATMs. 
 The computerized banking network will be shared by a consortium of banks. Each bank provides a computer that maintains the bank's accounts and processes transactions against the accounts. 
 Cashier stations are owned by individual banks and communicate directly with the bank's computers. 
